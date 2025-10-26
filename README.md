@@ -1,5 +1,5 @@
 # JCollection
-JCollection is a java library that has different classes for different data structures that work as collections of items.
+JCollection is a java library that has different classes for different data structures that act as collections of items.
 JCollection currently has 2 main classes <i>(not litterally a main class but you get what I mean)</i>, <b>Array</b> and <b>Dictionary</b>.
 <b>Array</b> is an ArrayList, and <b>Dictionary</b> is just like an ArrayList, except it consists of key-value pairs, and 2 items cannot have the same key.
 # 
