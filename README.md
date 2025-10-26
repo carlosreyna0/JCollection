@@ -9,3 +9,5 @@ Each main class has a filter() method, which loops through each item, checks if 
 <code>arr.filter((index, item)->index==2);</code>
 # 
 Each main class has a loop() methods which just loops through each item.
+## Side note
+ignore the Main class, it was just a little test.
